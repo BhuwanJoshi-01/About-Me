@@ -101,8 +101,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://github.com/BhuwanJoshi-01/About-Me/blob/output/snake.svg" alt="Snake animation" />
 
 ###
