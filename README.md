@@ -103,6 +103,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BhuwanJoshi-01/BhuwanJoshi-01/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/BhuwanJoshi-01/BhuwanJoshi-01/output/snake.svg](https://github.com/BhuwanJoshi-01/About-Me/blob/output/snake.svg)" alt="Snake animation" />
 
 ###
